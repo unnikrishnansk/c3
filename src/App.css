@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar{
+  /* border: 1px solid red; */
+  height: 100px;
+  width: 90%;
+  margin: auto;
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-around;
+  background-color: aqua;
+}
+
+
